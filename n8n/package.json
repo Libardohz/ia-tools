@@ -1,0 +1,13 @@
+{
+  "name": "ia-tools-n8n",
+  "version": "1.0.0",
+  "description": "Lanzador y entorno local de flujos de trabajo con n8n",
+  "scripts": {
+    "start": "npx n8n",
+    "help": "npx n8n --help"
+  },
+  "keywords": ["n8n", "workflows", "automation", "ai"],
+  "author": "",
+  "license": "MIT"
+}
+

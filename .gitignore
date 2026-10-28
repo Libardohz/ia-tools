@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno y claves sensibles
+.env
+*.env.local
+
+# Datos persistentes locales de n8n
+.n8n_data/
+n8n/.n8n_data/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
